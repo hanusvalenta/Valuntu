@@ -1,4 +1,4 @@
-# MoupixOS
+# Valuntu
 Experimental linux distro
 
 
