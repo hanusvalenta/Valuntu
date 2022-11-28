@@ -1,6 +1,8 @@
 # Valuntu
 Experimental linux distro
 
+based off ubuntu lts
+
 pre installed packages:
 
 * wine
