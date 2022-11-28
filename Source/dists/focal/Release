@@ -1,0 +1,23 @@
+Origin: Ubuntu
+Label: Ubuntu
+Suite: focal
+Version: 20.04
+Codename: focal
+Date: Thu, 23 Apr 2020 17:33:17 UTC
+Architectures: amd64 i386
+Components: main restricted
+Description: Ubuntu Focal 20.04
+Acquire-By-Hash: yes
+SHA256:
+ 44fa689d816504f1c9ba27b08d46f25a4897a4f21ced7921f5a8530e32ce0b60       95 main/binary-amd64/Release
+ 28030a3c9dc7d03b68fa516036a92e238a5bc00d8a14d444083671a22507e880    29470 main/binary-amd64/Packages.gz
+ 48c2c7e2047133c00db9bec22026ee7049c02dbc53a58758946949ba59ef950e   112229 main/binary-amd64/Packages
+ 136e603984989c1db83d4cef46881f5b197d65120c49fc718e0a81bb21a166bf       94 main/binary-i386/Release
+ 9a80d973cfbea4ef795cd7dc754cd022537cdad7407df4d10a056fb49a0adee4    27210 main/binary-i386/Packages.gz
+ 044f43246bd3444123111998aa6e09644f6004c4e0e621edf14b3df6df421083   106908 main/binary-i386/Packages
+ d8f70ca1fe1aaab95538a2c4d45118be407c0c479a247a41b2de094041cb940a      101 restricted/binary-amd64/Release
+ eb8d581237aeea3915abc36c61e75256597df9738785cffc57abff6b16a84feb    28569 restricted/binary-amd64/Packages.gz
+ 79a0ddd39c35e7e139c1648dbbfb71dee714dc4d733c8d2021376c0d08155fd2   228676 restricted/binary-amd64/Packages
+ f51659fc018cde566f5297af01955e5749d53de3bce71c14e132e02ae6ca4363      100 restricted/binary-i386/Release
+ def84b89d8bd7684d8bee308b91c63b84e9c674f608beb558e10a4ea83f8f9c6     4674 restricted/binary-i386/Packages.gz
+ ad6fbd286a120513221d6086184f343207ecf2b3358b26cf8c4634937d5815b4    21369 restricted/binary-i386/Packages
