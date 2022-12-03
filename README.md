@@ -5,7 +5,7 @@ done for my daily use
 made with [ubuntu](https://ubuntu.com/) & inspired by [crunchban](https://www.crunchbangplusplus.org/)
 
 What it looks like:
-(![Alt text](Screenshots/Desktop.png))
+(![Alt text] Screenshots/Desktop.png)
 
 WM installed:
 
