@@ -1,9 +1,16 @@
 # Valuntu
 Experimental linux distro
+done for my daily use
 
-based off ubuntu lts
+based off (ubuntu lts)[https://ubuntu.com/]
 
-pre installed packages:
+WM installed:
+
+* kde
+* openbox
+* dwm dmenu
+
+Pre installed packages:
 
 * wine
 * wine
@@ -48,12 +55,6 @@ pre installed packages:
 * curl
 * aptitude
 * godot
-
-WM installed:
-
-* kde
-* openbox
-* dwm dmenu
 
 # Default password is: password
 
