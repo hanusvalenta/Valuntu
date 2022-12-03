@@ -2,7 +2,7 @@
 Experimental linux distro
 done for my daily use
 
-based off (ubuntu lts)[https://ubuntu.com/]
+based off [ubuntu lts](https://ubuntu.com/)
 
 WM installed:
 
