@@ -8,11 +8,10 @@ WM installed:
 
 * kde
 * openbox
-* dwm dmenu
+* dwm
 
 Pre installed packages:
 
-* wine
 * wine
 * wine32
 * libwine
@@ -55,6 +54,7 @@ Pre installed packages:
 * curl
 * aptitude
 * godot
+* dmenu
 
 # Default password is: password
 
