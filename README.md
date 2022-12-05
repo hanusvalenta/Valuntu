@@ -57,6 +57,7 @@ Pre installed packages:
 * aptitude
 * godot
 * dmenu
+* feh
 
 # Default password is: password
 
