@@ -21,7 +21,6 @@ Pre installed packages:
 * vlc
 * geany
 * gimp
-* wine
 * blender
 * vim
 * emacs
