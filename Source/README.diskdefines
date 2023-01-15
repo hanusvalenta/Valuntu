@@ -1,2 +1,2 @@
-#define DISKNAME  Valuntu 20.04.2 2022.11.07.0 LTS "Angry principal"
-#define DISKNOTE  Generated using Cubic version 2022.06.72 on 2022-11-07 20:28 based on ubuntu-20.04.2.0-desktop-amd64.iso
+#define DISKNAME  Valuntu 20.04.2 2022.11.07.0 LTS "Lonely iso"
+#define DISKNOTE  Based on ubuntu-20.04.2.0-desktop-amd64.iso
