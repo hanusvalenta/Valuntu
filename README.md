@@ -5,7 +5,7 @@ done for my daily use
 made with [ubuntu](https://ubuntu.com/) & inspired by [crunchbang](https://www.crunchbangplusplus.org/)
 
 What it looks like:
-![Alt text](Screenshots/Desktop.png)
+![dektop screenshot](Screenshots/Desktop.png)
 
 WM installed:
 
@@ -62,3 +62,6 @@ Pre installed packages:
 # Default password is: password
 
 # install at your own risk
+
+yeah and it runs doom but you have to force it hard enough
+![screenshot of playing compiled doom](Screenshots/DOOM.png)
