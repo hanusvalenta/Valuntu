@@ -1,11 +1,13 @@
 # Valuntu
-Experimental linux distro
-done for my daily use
+<img src="Images/ValuntuLogo.svg" alt="Valuntu logo" width="100"/>
+
+## Experimental linux distro done for my daily use
 
 made with [ubuntu](https://ubuntu.com/) & inspired by [crunchbang](https://www.crunchbangplusplus.org/)
 
 What it looks like:
-![dektop screenshot](Screenshots/Desktop.png)
+
+![dektop screenshot](Images/Desktop.png)
 
 WM installed:
 
@@ -59,9 +61,11 @@ Pre installed packages:
 * dmenu
 * feh
 
++some nice backgrounds
+
 # Default password is: password
 
 # install at your own risk
 
 yeah and it runs doom but you have to force it hard enough
-![screenshot of playing compiled doom](Screenshots/DOOM.png)
+![screenshot of playing compiled doom](Images/DOOM.png)
