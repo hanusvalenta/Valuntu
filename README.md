@@ -3,6 +3,8 @@
 
 ## Experimental linux distro done for my daily use
 
+a compiled version is currently in the works
+
 made with [ubuntu](https://ubuntu.com/) & inspired by [crunchbang](https://www.crunchbangplusplus.org/)
 
 What it looks like:
