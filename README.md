@@ -1,7 +1,7 @@
 # Valuntu
 <img src="Images/ValuntuLogo.svg" alt="Valuntu logo" width="100"/>
 
-## Experimental linux distro done for my daily use
+## Experimental hyper-bloated linux distro done for my daily use
 
 a compiled version is currently in the works
 
