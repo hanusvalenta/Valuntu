@@ -19,12 +19,14 @@ WM installed:
 
 Pre installed packages:
 
+* winehq-stable
 * wine
 * wine32
 * libwine
 * vlc
 * geany
 * gimp
+* wine
 * blender
 * vim
 * emacs
@@ -39,6 +41,7 @@ Pre installed packages:
 * copyq
 * neofetch
 * filezilla
+* filezilla server
 * bash
 * wireshark
 * kden live
@@ -46,7 +49,7 @@ Pre installed packages:
 * onlyoffice
 * openoffice
 * libreoffice
-* top
+* htop
 * git
 * vscode
 * qemu
@@ -60,8 +63,13 @@ Pre installed packages:
 * curl
 * aptitude
 * godot
-* dmenu
-* feh
+* nmap
+* node
+* npm
+* fish
+* btop
+* genact
+* openssh-server
 
 +some nice backgrounds
 
